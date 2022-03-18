@@ -1,0 +1,29 @@
+body
+{
+    background-color: #CEAB93;
+}
+
+div
+{
+    text-align: center;
+    font-family: cursive;
+    color: #FFFBE9;
+}
+#link
+{
+    list-style-type: none;
+    display: block;
+}
+#link li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+img
+{
+    border-radius: 50%;
+    height: 420px;
+    width: 420px;
+    object-fit: cover;
+}
